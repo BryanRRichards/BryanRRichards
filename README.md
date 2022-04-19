@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryanRRichards
 - 👀 I’m interested in Data Science and Analytics 
-- 🌱 I’m currently learning Supervised learning; linear regression, logistic regression and decision trees. 
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me brussellr@gmail.com
 
 <!---
